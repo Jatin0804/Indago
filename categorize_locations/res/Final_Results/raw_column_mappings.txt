@@ -1,0 +1,181 @@
+=== Mapping Output ===
+- Company ID -> N/A
+- Company name -> Company Name
+- Description -> Business Description
+- Notes -> N/A
+- Website -> Website
+- Headcount range (LinkedIn) -> Number of Employees
+- Employees Count (LinkedIn) -> Number of Employees
+- Headcount Growth (12 Months) -> N/A
+- Traffic Growth (3 Months) -> N/A
+- Country -> Geography
+- Region -> Geography
+- City -> Geography
+- Est. Revenue (MUSD) (MAX 1B) -> Revenue
+- Founded -> N/A
+- Linkedin Url -> N/A
+- Ownership Type -> N/A
+- Last Funding Amount (MUSD) -> N/A
+- Total Funding (MUSD) -> N/A
+- Last Funding Type -> N/A
+- Last Funding Date -> N/A
+- Investors -> Active Investors
+- Last Funding Lead Investors -> Active Investors
+
+=== Mapping Output ===
+- Companies -> Company Name
+- Acquirers -> Not applicable
+- # Active Investors -> Active Investors
+- Former Investors -> Not applicable
+- Active Investors Websites -> Not applicable
+- Active Investors -> Active Investors
+- Financing Status Note -> Company Financing Status
+- Revenue -> Revenue
+- Revenue Growth % -> Not applicable
+- Gross Profit -> Not applicable
+- Net Income -> Not applicable
+- Enterprise Value -> Not applicable
+- EBITDA -> Not applicable
+- EBIT -> Not applicable
+- Market Cap -> Not applicable
+- Net Debt -> Not applicable
+- Fiscal Period -> Not applicable
+- Primary Contact PBId -> Not applicable
+- Primary Contact -> Contact First Name
+- Primary Contact Title -> Contact Title
+- Primary Contact Email -> Contact Email
+- Primary Contact Phone -> Company Phone Number
+- HQ Location -> Geography
+- HQ Address Line 1 -> Not applicable
+- HQ Address Line 2 -> Not applicable
+- HQ City -> Geography
+- HQ State/Province -> Geography
+- HQ Post Code -> Not applicable
+- HQ Country/Territory/Region -> Geography
+- HQ Phone -> Company Phone Number
+- HQ Fax -> Not applicable
+- HQ Email -> Not applicable
+- HQ Global Region -> Not applicable
+- HQ Global Sub Region -> Not applicable
+- Company Former Name -> Company Name
+- Company Also Known As -> Company Name
+- Company Legal Name -> Company Name
+- Registration Number -> Not applicable
+- Company Registry -> Not applicable
+- Competitors -> Not applicable
+- PBId -> Not applicable
+- Description -> Business Description
+- Primary Industry Sector -> Not applicable
+- Primary Industry Group -> Not applicable
+- Primary Industry Code -> Not applicable
+- All Industries -> Not applicable
+- Verticals -> Not applicable
+- Keywords -> Not applicable
+- Emerging Spaces -> Not applicable
+- Company Financing Status -> Company Financing Status
+- Total Raised -> Not applicable
+- Business Status -> Not applicable
+- Ownership Status -> Not applicable
+- Universe -> Not applicable
+- Website -> Website
+- LinkedIn URL -> Not applicable
+- Employees -> Number of Employees
+- Employee History -> Not applicable
+- Exchange -> Not applicable
+- Ticker -> Not applicable
+- Year Founded -> Not applicable
+- Parent Company -> Parent Company
+- Last Updated Date -> Not applicable
+- Daily Updates -> Not applicable
+- Weekly Updates -> Not applicable
+- View Company Online -> Not applicable
+
+=== Mapping Output ===
+- Companies -> Company Name
+- Acquirers -> Not applicable
+- # Active Investors -> Active Investors
+- Former Investors -> Not applicable
+- Active Investors Websites -> Not applicable
+- Active Investors -> Active Investors
+- Financing Status Note -> Not applicable
+- Revenue -> Revenue
+- Revenue Growth % -> Not applicable
+- Gross Profit -> Not applicable
+- Net Income -> Not applicable
+- Enterprise Value -> Not applicable
+- EBITDA -> Not applicable
+- EBIT -> Not applicable
+- Market Cap -> Not applicable
+- Net Debt -> Not applicable
+- Fiscal Period -> Not applicable
+- Primary Contact PBId -> Not applicable
+- Primary Contact -> Contact First Name
+- Primary Contact Title -> Contact Title
+- Primary Contact Email -> Contact Email
+- Primary Contact Phone -> Company Phone Number
+- HQ Location -> Geography
+- HQ Address Line 1 -> Geography
+- HQ Address Line 2 -> Geography
+- HQ City -> Geography
+- HQ State/Province -> Geography
+- HQ Post Code -> Geography
+- HQ Country/Territory/Region -> Geography
+- HQ Phone -> Company Phone Number
+- HQ Fax -> Not applicable
+- HQ Email -> Not applicable
+- HQ Global Region -> Geography
+- HQ Global Sub Region -> Geography
+- Company Former Name -> Company Name
+- Company Also Known As -> Company Name
+- Company Legal Name -> Company Name
+- Registration Number -> Not applicable
+- Company Registry -> Not applicable
+- Competitors -> Not applicable
+- PBId -> Not applicable
+- Description -> Business Description
+- Primary Industry Sector -> Not applicable
+- Primary Industry Group -> Not applicable
+- Primary Industry Code -> Not applicable
+- All Industries -> Not applicable
+- Verticals -> Not applicable
+- Keywords -> Not applicable
+- Emerging Spaces -> Not applicable
+- Company Financing Status -> Not applicable
+- Total Raised -> Not applicable
+- Business Status -> Not applicable
+- Ownership Status -> Not applicable
+- Universe -> Not applicable
+- Website -> Website
+- LinkedIn URL -> Not applicable
+- Employees -> Number of Employees
+- Employee History -> Not applicable
+- Exchange -> Not applicable
+- Ticker -> Not applicable
+- Year Founded -> Not applicable
+- Parent Company -> Parent Company
+- Last Updated Date -> Not applicable
+- Daily Updates -> Not applicable
+- Weekly Updates -> Not applicable
+- View Company Online -> Not applicable
+
+=== Mapping Output ===
+- SP_ENTITY_NAME -> Company Name
+- SP_ENTITY_ID -> Not mapped to any standard field
+- MI_PRIMARY_INDUSTRY -> Not mapped to any standard field
+- SP_COMPANY_TYPE -> Not mapped to any standard field
+- SP_COMPANY_STATUS -> Not mapped to any standard field
+- Ownership Status Type -> Not mapped to any standard field
+- SP_BUSINESS_DESCRIPTION -> Business Description
+- SP_LONG_BUSINESS_DESCRIPTION -> Not mapped to any standard field
+- SP_YEAR_INCORPORATED -> Not mapped to any standard field
+- SP_WEBSITE -> Website
+- IQ_NUM_EMPLOYEES_DOL -> Number of Employees
+- MI_INDUSTRY_CLASSIFICATION -> Not mapped to any standard field
+- SP_CITY_STATE -> Geography
+- SP_COUNTRY_NAME -> Geography
+- SP_PARENT_COMPANY_NAME -> Parent Company
+- SP_TOTAL_REV -> Revenue
+- SP_EBITDA -> Not mapped to any standard field
+- IQ_TOTAL_REV -> Revenue
+- IQ_TOTAL_EMPLOYEES -> Number of Employees
+
